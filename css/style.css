@@ -39,7 +39,7 @@ main::after {
   background-color: #730671 ;
 }
 
-.col-right {
+.col-right-1 {
   float: left;
   height: 170px;
   width: 27%;
@@ -47,14 +47,14 @@ main::after {
   background-color: #CC87DA;
 }
 
-/* .col-right-2 {
+.col-right-2 {
   float: left;
   height: 170px;
   width: 27%;
   margin-left: 3%;
   margin-top: 20px;
   background-color: #CC87DA;
-} */
+}
 
 footer{
   height: 70px;
